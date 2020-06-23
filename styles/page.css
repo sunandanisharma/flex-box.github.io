@@ -464,8 +464,8 @@ background: linear-gradient(#0d1970, white);}
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background: -webkit-gradient(linear, left top, left bottom, from(#0d1970), to(white));
-  background: linear-gradient(#0d1970, white);
+  background: -webkit-gradient(linear, left top, left bottom, from(#c4ebb0), to(white));
+  background: linear-gradient(#7ceb94, white);
 }
 
 .startups .right__container .right__top {
@@ -483,7 +483,7 @@ background: linear-gradient(#0d1970, white);}
 }
 
 .startups .right__container .right__bottom .button {
-  background:rgb(247, 247, 54);
+  background:blue;
   color: white;
   border: none;
   outline: none;
