@@ -464,7 +464,7 @@ background: linear-gradient(#0d1970, white);}
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background: -webkit-gradient(linear, left top, left bottom, from(#c4ebb0), to(white));
+  background: -webkit-gradient(linear, left top, left bottom, from(#c6ebb4), to(white));
   background: linear-gradient(#7ceb94, white);
 }
 
